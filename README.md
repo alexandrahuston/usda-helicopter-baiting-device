@@ -68,6 +68,8 @@ Multiple concepts were generated and evaluated using engineering decision-making
 - Failure Modes and Effects Analysis (FMEA)
 - Project scheduling and Gantt planning
 
+![Exploded CAD Assembly](FullAssemblyExplodedView.png)
+
 ---
 
 ## Mechanical Design
@@ -123,6 +125,8 @@ The system was designed to operate from a **12 V / 5 A power source**.
 
 The Arduino coordinated the motor control, display, GPS functionality, and communication with the ESP32-CAM.
 
+![Electrical Circuit Diagram](ElectricalCircuitDiagram.png)
+
 ---
 
 ## Testing & Results
@@ -132,6 +136,8 @@ Prototype testing was used to evaluate the dispensing mechanism, bait sorting, c
 The automated dispensing system was developed around a target rate of approximately **68.5 baits/min**.
 
 Testing identified several areas where the prototype performed well, as well as areas requiring additional development.
+
+![Average Baits Per Minute Across All Tests](AverageBaitsPerMinuteAcrossAllTests.png)
 
 ### Counting System
 
@@ -191,6 +197,14 @@ The mechanical dispensing system and individual electronic components could perf
 The counting system in particular demonstrated the difference between a promising proof of concept and a validated production-ready solution.
 
 Future development would focus on increasing processing capability, improving object detection reliability, and validating performance under a wider range of environmental and operating conditions.
+
+---
+
+## Project Presentation
+
+The project was presented as part of CSU's Engineering Days (E-Days) senior design showcase.
+
+![Senior Design Team at E-Days](SeniorDesignGroupPhoto.jpg)
 
 ---
 
