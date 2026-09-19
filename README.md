@@ -2,6 +2,8 @@
 
 ## Senior Design Project | CSU Mechanical Engineering | 2025
 
+![CAD Design and Final Prototype](CAD%20and%20final%20prototype%20comparison%20image.png)
+
 ### Project Overview
 
 Designed and prototyped an automated aerial oral rabies vaccine bait dispensing system for deployment from a rotary-wing aircraft.
