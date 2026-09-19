@@ -137,7 +137,7 @@ The automated dispensing system was developed around a target rate of approximat
 
 Testing identified several areas where the prototype performed well, as well as areas requiring additional development.
 
-![Average Baits Per Minute Across All Tests](AverageBaitsPerMinuteAcrossAllTests.png)
+![Average Baits Per Minute Across All Tests](AvgerageBaitsPerMinuteAcrossAllTests.png)
 
 ### Counting System
 
