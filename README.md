@@ -204,7 +204,7 @@ Future development would focus on increasing processing capability, improving ob
 
 The project was presented as part of CSU's Engineering Days (E-Days) senior design showcase.
 
-![Senior Design Team at E-Days](SeniorDesignGroupPhoto.jpg)
+![Senior Design Team at E-Days](SeniorDesignPresentationGroupPhoto.jpg)
 
 ---
 
